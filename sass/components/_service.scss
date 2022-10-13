@@ -1,0 +1,33 @@
+.service {
+  display: flex;
+  background-color: #19161b;
+}
+h2 {
+  color: #fff;
+  font-size: 56px;
+}
+h3 {
+  color: #fff;
+  font-size: 20px;
+}
+p {
+  color: #b8b8b8;
+  line-height: 28px;
+}
+.service__button {
+  width: 164px;
+  height: 48px;
+  background-color: #ffb577;
+  color: #2e2d33;
+  font-size: 16px;
+  border-radius: 5px;
+}
+.service__text {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+}
+.service__img {
+  margin-left: 30px;
+}

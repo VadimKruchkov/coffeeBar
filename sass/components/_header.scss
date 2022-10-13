@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1600px;
+  height: 80px;
+  background-color: #19161b;
+}
+.header__logo {
+  color: #ffb577;
+  font-size: 20px;
+}
+.header__list {
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+  font-size: 16px;
+  list-style: none;
+  margin-left: 40px;
+}
+.header__list-item {
+  margin-left: 40px;
+}
+.header__nav {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}

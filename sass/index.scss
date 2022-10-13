@@ -1,0 +1,9 @@
+body {
+  background-color: #19161b;
+}
+
+@import "./components/header";
+@import "./components/service";
+
+@import "./layouts/section";
+@import "./layouts/container";
